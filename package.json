@@ -1,0 +1,29 @@
+{
+  "name": "load-image",
+  "version": "1.0.0",
+  "description": "load an image asynchronously, promised.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/load-image.git"
+  },
+  "keywords": [
+    "image",
+    "promise",
+    "browser"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/nathan7/load-image/issues"
+  },
+  "dependencies": {
+    "promise": "~3.0.1",
+    "is-promise": "~1.0.0",
+    "lazify": "~1.0.0"
+  },
+  "browser": {
+    "canvas": false
+  }
+}
