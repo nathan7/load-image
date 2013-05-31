@@ -1,0 +1,22 @@
+{
+  "name": "load-image",
+  "repo": "nathan7/load-image",
+  "description": "load an image asynchronously, promised.",
+  "version": "1.0.0",
+  "keywords": [
+    "image",
+    "promise",
+    "browser"
+  ],
+  "dependencies": {
+    "then/promise": "*",
+    "nathan7/lazify": "*",
+    "then/is-promise": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
